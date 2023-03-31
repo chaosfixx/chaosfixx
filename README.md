@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on overhauling my digital footprint.
-- 🌱 I’m currently learning about digital disruption and thriving in the age of data. 
-- 👯 I’m looking to collaborate on raspberry pi projects.
+- 🌱 I’m constantly learning about digital disruption and thriving in the age of data. 
+- 👯 I’m looking to collaborate on those complex technical environment and how to find patterns and mature observability.
 - 💬 Ask me about SRE, Agile and AI.
